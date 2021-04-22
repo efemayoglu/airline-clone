@@ -1,9 +1,12 @@
 # airline-clone
 
+#To run by using self
+
 python manage.py runserver
 
-or
+Or
 
+#To run by using docker
 
 docker build --tag airline-ticket-service .
 
