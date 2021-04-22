@@ -1,3 +1,3 @@
 # airline-clone
 
-python manage.py runserve
+python manage.py runserver
