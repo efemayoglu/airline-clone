@@ -14,7 +14,7 @@ docker run -d -p 4000:8000 airline-ticket-service
 
 applications runs on 4000 like http://127.0.0.1:4000/flights
 
-we you want the run a command inside of the container use this;
+if you want the run a command inside of the container use this;
 08aaedf233fb is a container id if you want to learn it run "docker ps"
 docker exec -it 08aaedf233fb bash
 
